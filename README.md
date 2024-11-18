@@ -1,6 +1,6 @@
 <h3>I'm Computer Engineering Student. Passionate About Technology, Engineering, and Designing. </h3>
 
-- 🔭 I’m currently working on [Atm-Banking](https://github.com/jjohnZeeh1/ATM-BANKING) and [Apartment Management System](https://github.com/jjohnZeeh1/apartment)
+- 🔭 I’m currently working on [Atm-Banking](https://github.com/devzeeh/ATM-BANKING) and [Apartment Management System](https://github.com/devzeeh/apartment)
 
 - 🌱 I’m currently learning **$${\color{red}Ruby, \space \color{blue}Go, \space \color{green}node.js}$$**
 - 📫 you can reach me at: **roxas.johnerrol@gmail.com or johnerrol.dev@gmail.com**
