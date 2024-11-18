@@ -1,4 +1,4 @@
-<h3 align="center">I'm Computer Engineering Student. Passionate About Technology, Engineering, and Designing.</h3>
+<h3>I'm Computer Engineering Student. Passionate About Technology, Engineering, and Designing.</h3>
 
 - 🔭 I’m currently working on [Atm-Banking](https://github.com/jjohnZeeh1/ATM-BANKING) and [Apartment Management System](https://github.com/jjohnZeeh1/apartment)
 
