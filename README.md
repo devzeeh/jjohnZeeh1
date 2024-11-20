@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Atm-Banking](https://github.com/devzeeh/ATM-BANKING) and [Apartment Management System](https://github.com/devzeeh/apartment)
 
 - 🌱 I’m currently learning **$${\color{red}Ruby, \space \color{blue}Go, \space \color{green}node.js}$$**
-- 📫 you can reach me at: **roxas.johnerrol@gmail.com or johnerrol.dev@gmail.com**
+- 📫 you can reach me at: **johnerrol.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
